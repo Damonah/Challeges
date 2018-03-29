@@ -1,0 +1,1 @@
+This program find the biggest palindrom of a substring.If the word itself is palindrom it will return the word.
