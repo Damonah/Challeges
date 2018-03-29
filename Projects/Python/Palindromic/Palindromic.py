@@ -1,5 +1,5 @@
 def main():
-    word=input("please enter a string to find biggest palindrom: ")
+    word=input("please enter a string to find biggest palindrome: ")
     biggest=1
     big=word[0]
     
@@ -16,7 +16,7 @@ def main():
 
 
 
-    print("The biggest substring plaindrom is "+str(big)+" with a count of "+str(biggest))
+    print("The biggest substring plaindrome is "+str(big)+" with a count of "+str(biggest))
    
                
            
