@@ -1,0 +1,7 @@
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\bin\Debug\Pies.exe.config
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\bin\Debug\Pies.exe
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\bin\Debug\Pies.pdb
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\obj\Debug\Pies.csprojResolveAssemblyReference.cache
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\obj\Debug\Pies.csproj.CoreCompileInputs.cache
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\obj\Debug\Pies.exe
+C:\Users\Jibix\Desktop\challenges\Projects\c#\Pie problem\Pies\obj\Debug\Pies.pdb
